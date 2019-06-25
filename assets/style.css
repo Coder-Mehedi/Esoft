@@ -1,0 +1,15 @@
+body{
+    /* width: 1920px; */
+}
+.full-header {
+  background: #004274;
+  border-bottom: 5px solid #ffe400;
+  display: flex;
+  height: 80px;
+  align-items: center;
+}
+
+.menu a {
+  text-decoration: none;
+}
+
